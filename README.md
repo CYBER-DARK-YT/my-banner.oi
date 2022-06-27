@@ -2,7 +2,7 @@
 Make banner
 
 ```
-git clone https://github.com/CodeMyHub/my-banner.oi
+git clone https://github.com/CYBER-DARK-YT/my-banner.oi
 ```
 ```
 cd my-banner.oi
